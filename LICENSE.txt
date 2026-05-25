@@ -10,7 +10,7 @@ A Fishing Bot in Tower of Fantasy powered by OpenCVSharp
 ***************** DOWNLOAD *****************
 ------------------------------------------------
 
-[+] DOWNLOAD LINK: 
+[+] DOWNLOAD LINK: https://chizi.s.gy/tof
 
 ------------------------------------------------
 ***************** ******** *****************
